@@ -1,0 +1,8 @@
+3
+S AB
+A BB a
+B b
+3
+ab
+bbb
+abb
